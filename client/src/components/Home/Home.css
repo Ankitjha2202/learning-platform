@@ -1,0 +1,41 @@
+.container{
+    height: 100vh;
+    padding: 5rem;
+    box-sizing: border-box;
+}
+/* .vector-graphics{
+    filter: drop-shadow(0, 0, 0, 0.3);
+} */
+.brandsBanner > svg{
+color:white;
+font-size:  3rem;
+transition: color 0.5s;
+}
+ 
+
+.brandsBanner > svg:hover {
+color: rgb(255,221,0);
+}
+
+.container2{
+    /* height:50vh; */
+    display: flex;
+    justify-content: center;
+    /* width: 50%; */
+    align-items: center;
+}
+.contanier2 video{
+   border: 1px solid rgba(0,0,0,0.18);
+   width: 30%;
+   border-radius: 5px;
+   outline: none;
+}
+
+.course{
+margin-bottom: 1rem;
+transition: all 0.5s;
+}
+
+.course.hover{
+    transform: translateY(-10px);
+}
