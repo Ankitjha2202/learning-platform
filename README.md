@@ -1,4 +1,4 @@
-# MERN PROJECT
+# MERN PROJEC
 # Course Website
 ![alt text](https://i.postimg.cc/Y25ysRSv/frontend.jpg)
 ![alt text](https://i.postimg.cc/SsTb9MLW/frontend1.jpg)
